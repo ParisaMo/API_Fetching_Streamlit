@@ -1,3 +1,9 @@
+used streamlit to connect my google sheet to my project.
+to login, you have to enter admin for both username and password.
+however, I wasn't able to work well with the multipage version of streamlit. Therefore, I advise the visitors to clone the project rather than check the deployed version
+when you loged it, you can either visit main.py or Main.py.
+
+
 # Streamlit GSheetsConnection
 
 Connect to public or private Google Sheets from your Streamlit app. Powered by `st.experimental_connection()` and [gspread](https://github.com/burnash/gspread).
